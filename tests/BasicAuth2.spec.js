@@ -6,6 +6,7 @@ test('basic auth 2', async({page}) => {
     //Define the basic auth credentials
     const username = "admin";
     const password = "admin";
+    
 
     //Encode the credentials as base64 string
 
